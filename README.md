@@ -25,6 +25,7 @@ News are classified with the following topics. Click on a topic to only see the 
 | [AI for images 🖼️](topics/Topic_AI_for_images.md) | [AI in healthcare 🏥](topics/Topic_AI_in_healthcare.md) |[Speech-to-text 🎤](topics/Topic_Speech-to-text.md) |[Text-to-speech 📢](topics/Topic_Text-to-speech.md) |[AI datasets 📊](topics/Topic_AI_datasets.md) |
 | [AI and copyright ©️](topics/Topic_AI_and_copyright.md) | [Whisper 🤫](topics/Topic_Whisper.md) |[AI safety 🔐](topics/Topic_AI_safety.md) |[Hugging Face 🤗](topics/Topic_Hugging_Face.md) |[Reinforcement learning 🎮](topics/Topic_Reinforcement_learning.md) |
 | [LangChain and LlamaIndex 🔗](topics/Topic_LangChain_and_LlamaIndex.md) |
+- [Helium MCP](https://github.com/connerlambden/helium-mcp) — Real-time news with 37-dimension bias scoring, ML options pricing, and live market data. [Interactive demo](https://connerlambden.github.io/helium-news-explorer/) · [REST API](https://heliumtrades.com/mcp-page/)
 
 ## News of week ending at 2024-11-25
 
